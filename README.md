@@ -4,6 +4,13 @@
 
 I am an aspiring DevOps/Data/Cloud Engineer currently doing my Masters in Electrical and Computer Engineering. 
 
+<br>
+
+<img src='website_logo.png'  width="150" height="28"></img>
+[![Blog](https://img.shields.io/badge/Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://blog.waithaka.me)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brian@waithaka.me)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brianwaithaka/)
+
 ---
 
 ### Projects
@@ -44,21 +51,6 @@ I am working on documenting the above projects, read more on my [Blog ](https://
 
 ---
 
-### Connect With Me
-<p>
-<div align="left">
-  <a href="https:snsdjs" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="mailto://brian@waithaka.me" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Mail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-
-
-</div>
-</p>
-
----
 
 ### My Rookie Stats
 <p>
