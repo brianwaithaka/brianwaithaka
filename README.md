@@ -9,10 +9,11 @@ I am an aspiring DevOps/Data/Cloud Engineer currently doing my Masters in Electr
 ### Projects
 Some recently completed projects taken to build on skills learnt in [certifications](https://www.waithaka.me/resume.html#certifications)
 
-- A GitHub Pages Website Generated using Ruby. Used
-- An Online Resume site deployed using Azure Static Web Apps
+- A [website](https://notes.waithaka.me) to document my notes. Generated using Ruby, Applied Jekyll theme, Intergrated CI/CD using Github Actions, Published directly to GitHub Pages, Integrated Custom Domain.  
 
-I am working on documenting the above projects, [read more my blog](https://blog.waithaka.me)
+- A [website](https://www.waithaka.me) to showcase my resume and website landing page. Deployed using Azure Static Web Apps. Written with HTMl, JS, Bootstrap. Styled with CSS
+
+I am working on documenting the above projects, read more on my [Blog ](https://blog.waithaka.me)
 
 ---
 
