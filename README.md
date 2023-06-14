@@ -59,7 +59,7 @@ I am working on documenting the above projects, read more on my [Blog ](https://
 ### My Rookie Stats
 <p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=brianwaithaka&hide_rank=true&theme=dark&show_icons=true&bg_color=00000000)" align = "center"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=brianwaithaka&hide_rank=true&theme=dark&show_icons=true&bg_color=00000000&layout=normal" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=brianwaithaka&hide_rank=true&theme=buefy&show_icons=true&bg_color=00000000)" align = "center"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=brianwaithaka&hide_rank=true&theme=buefy&bg_color=00000000&show_icons=true&layout=normal" align = "center"/>
 
 
 </p>
