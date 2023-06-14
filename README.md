@@ -51,18 +51,17 @@ I am working on documenting the above projects, read more on my [Blog ](https://
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="35" alt="bootstrap logo"  
   />
-  </p>
 </div>
+</p>
 
 ---
 
-
 ### My Rookie Stats
 <p>
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=brianwaithaka&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brianwaithaka&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
-</div>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=brianwaithaka&hide_rank=true&theme=dark&show_icons=true&bg_color=00000000)" align = "center"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=brianwaithaka&hide_rank=true&theme=dark&show_icons=true&bg_color=00000000&layout=normal" align = "center"/>
+
+
 </p>
 
 ---
