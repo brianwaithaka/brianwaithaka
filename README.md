@@ -2,10 +2,10 @@
 
 ---
 
-<br>
+<p>
 I am an aspiring DevOps/Data/Cloud Engineer currently doing my Masters in Electrical and Computer Engineering. 
 
-<br>
+</p>
 
 ---
 <p>
