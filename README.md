@@ -1,15 +1,20 @@
-## Hi 👋! My name is Brian
+## Hi 👋! I am Brian
 
 ---
 
+<br>
 I am an aspiring DevOps/Data/Cloud Engineer currently doing my Masters in Electrical and Computer Engineering. 
 
 <br>
 
-<img src='website_logo.png'  width="150" height="28"></img>
+---
+<p>
+
+<a href="https://www.waithaka.me" > <img src='website_logo.png' width="150" height="28"></img></a>
 [![Blog](https://img.shields.io/badge/Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://blog.waithaka.me)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brian@waithaka.me)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brianwaithaka/)
+</p>
 
 ---
 
