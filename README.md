@@ -10,22 +10,22 @@ I am an aspiring DevOps/Data/Cloud Engineer currently doing my Masters in Electr
 ---
 <p>
 
-<a href="https://www.waithaka.me" > <img src='images/website-logo.png' width="150" height="28"></img></a>
-[![Blog](https://img.shields.io/badge/Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://blog.waithaka.me)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brian@waithaka.me)
+<a href="https://www.waithaka.com" > <img src='images/website-logo.png' width="150" height="28"></img></a>
+[![Blog](https://img.shields.io/badge/Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://blog.waithaka.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brian@waithaka.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brianwaithaka/)
 </p>
 
 ---
 
 ### Projects
-Some recently completed projects taken to build on skills learnt in [certifications](https://www.waithaka.me/resume.html#certifications)
+Some recently completed projects taken to build on skills learnt in [certifications](https://www.waithaka.com/resume.html#certifications)
 
-- A [website](https://notes.waithaka.me) to document my notes. Generated using Ruby, Applied Jekyll theme, Intergrated CI/CD using Github Actions, Published directly to GitHub Pages, Integrated Custom Domain.  
+- A [website](https://notes.waithaka.com) to document my notes. Generated using Ruby, Applied Jekyll theme, Intergrated CI/CD using Github Actions, Published directly to GitHub Pages, Integrated Custom Domain.  
 
-- A [website](https://www.waithaka.me) to showcase my resume and website landing page. Deployed using Azure Static Web Apps. Written with HTMl, JS, Bootstrap. Styled with CSS
+- A [website](https://www.waithaka.com) to showcase my resume and website landing page. Deployed using Azure Static Web Apps. Written with HTMl, JS, Bootstrap. Styled with CSS
 
-I am working on documenting the above projects, read more on my [Blog ](https://blog.waithaka.me)
+I am working on documenting the above projects, read more on my [Blog ](https://blog.waithaka.com)
 
 ---
 
